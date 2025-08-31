@@ -1,9 +1,9 @@
-# Welcome to the "List of China Websites Supporting QUIC/HTTP3" 😊
+# 欢迎来到《国内网站QUIC/HTTP3支持收录表》😊
 
-**Read this in other languages: [English](README.md), [中文](README_zh.md).**
+**本文档的其他语言: [English](README.md), [中文](README_zh.md).**
 
-This document is maintained personally. Due to limited individual capacity and a relatively small scope of collection, there may be many omissions. Your understanding is greatly appreciated.
+本文档由本人**个人**维护，个人精力有限，搜集范围较小，可能存在大量遗漏，敬请谅解...
 
-This document records websites accessible within China that support QUIC/HTTP3, for everyone's reference, access, testing, and learning purposes.
+本文档记录了国内可以访问的支持QUIC/HTTP3的站点，以供大家访问测试学习
 
-Under active construction... (2025.09.01)
+目前正在积极施工...(2025.09.01)
