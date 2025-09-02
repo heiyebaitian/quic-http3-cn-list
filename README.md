@@ -1,4 +1,4 @@
-# 欢迎来到《国内网站QUIC/HTTP3支持收录表》😊
+# 欢迎来到《QUIC/HTTP3网站支持收录表》😊
 
 **本文档的其他语言: [English](README_en.md), [中文](README.md).**
 

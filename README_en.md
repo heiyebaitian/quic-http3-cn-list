@@ -1,4 +1,4 @@
-# Welcome to the "List of China Websites Supporting QUIC/HTTP3" 😊
+# Welcome to the "List of Websites Supporting QUIC/HTTP3" 😊
 
 **Read this in other languages: [English](README_en.md), [中文](README.md).**
 
