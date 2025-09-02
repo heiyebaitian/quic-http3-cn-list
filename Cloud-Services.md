@@ -2,4 +2,5 @@
 
 | 名称 | 链接 | 支持状态 | 简介 |
 | -------- | -------- | -------- | -------- |
-| Cloudflare     | https://cloudflare.com/     | ✅     | 著名云服务厂商     |
+| Cloudflare     | https://cloudflare.com     | ✅     | 著名云服务厂商     |
+| 阿里云DNS     | https://dns.alidns.com     | ✅     | 阿里云DNS     |

@@ -19,5 +19,9 @@
 
 [云服务/基础设施类](Cloud-Services.md)
 
+[实用工具类](Tool.md)
+
 [其他类](Other.md)
+
+[测试方法](Test-method.md)
 
