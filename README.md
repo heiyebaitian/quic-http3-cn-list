@@ -15,6 +15,8 @@
 
 [社交媒体类](Social-Media.md)
 
+[生活/资讯类](Life.md)
+
 [企业网站类](Enterprises.md)
 
 [电子商务类](Electronic-Commerce.md)
